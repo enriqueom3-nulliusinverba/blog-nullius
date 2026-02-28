@@ -5,62 +5,39 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
-import { SITE } from "@/config";
 
+// 1. Obtenemos todos los posts y los ordenamos
 const posts = await getCollection("blog");
-
 const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
+
+// 2. Filtramos para que SOLO salgan los 3 últimos (sin distinguir si son destacados o no)
+const recentPosts = sortedPosts.slice(0, 3);
 ---
 
 <Layout>
   <Header />
-  <main id="main-content" data-layout="index" class="app-layout">
+  <main id="main-content" class="app-layout">
     
-    <section id="hero" class="border-b border-border py-4 sm:py-6">
-      <h1 class="max-w-3xl text-lg font-medium italic sm:text-xl text-foreground/60">
+    <section id="hero" class="border-b border-border py-6 sm:py-8">
+      <h1 class="max-w-3xl text-lg font-medium italic sm:text-xl text-foreground/70 leading-relaxed">
         "La verdadera innovación es artesanal y surge en esa amalgama de grises."
       </h1>
     </section>
 
     {
-      featuredPosts.length > 0 && (
-        <section id="featured" class="pt-12 pb-6 border-b border-border">
-          <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
-          <ul>
-            {featuredPosts.map(data => (
-              <Card variant="h3" {...data} />
+      recentPosts.length > 0 && (
+        <section id="posts-list" class="py-4">
+          <ul class="divide-y divide-border/50">
+            {recentPosts.map(data => (
+              <li class="py-4">
+                <Card variant="h3" {...data} />
+              </li>
             ))}
           </ul>
         </section>
       )
     }
 
-    {
-      recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Recent Posts</h2>
-          <ul>
-            {recentPosts.map(
-              (data, index) =>
-                index < SITE.postPerIndex && <Card variant="h3" {...data} />
-            )}
-          </ul>
-        </section>
-      )
-    }
-
-    </main>
+  </main>
   <Footer />
 </Layout>
-
-<script>
-  document.addEventListener("astro:page-load", () => {
-    const indexLayout = (document.querySelector("#main-content") as HTMLElement)
-      ?.dataset?.layout;
-    if (indexLayout) {
-      sessionStorage.setItem("backUrl", "/");
-    }
-  });
-</script>
