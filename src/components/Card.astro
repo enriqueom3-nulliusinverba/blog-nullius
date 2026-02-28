@@ -2,7 +2,7 @@
 import type { CollectionEntry } from "astro:content";
 import { slugifyStr } from "@/utils/slugify";
 import { getPath } from "@/utils/getPath";
-import Datetime from "./Datetime.astro";
+/* He quitado la importación de Datetime para limpiar el código */
 
 type Props = {
   variant?: "h2" | "h3";
@@ -10,16 +10,18 @@ type Props = {
 
 const { variant: Heading = "h2", id, data, filePath } = Astro.props;
 
-const { title, description, ...props } = data;
+const { title, description } = data;
 ---
 
 <li class="my-6">
   <a
     href={getPath(id, filePath)}
     class:list={[
-      "inline-block text-lg font-medium text-accent",
+      "inline-block text-lg font-medium",
+      "text-amber-600 hover:text-amber-700 dark:text-amber-500 dark:hover:text-amber-400", /* COLOR DORADO */
       "decoration-dashed underline-offset-4 hover:underline",
       "focus-visible:no-underline focus-visible:underline-offset-0",
+      "transition-colors duration-200"
     ]}
   >
     <Heading
@@ -28,6 +30,8 @@ const { title, description, ...props } = data;
       {title}
     </Heading>
   </a>
-  <Datetime {...props} />
-  <p>{description}</p>
+  
+  {/* La fecha (Datetime) ha sido eliminada de aquí por diseño artesanal */}
+  
+  <p class="text-foreground/70 mt-1">{description}</p>
 </li>
