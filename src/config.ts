@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://nulliusinverba.enriqueom3.com/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  author: "Enrique Ortega",
+  profile: "https://enriqueom3.com/",
+  desc: "La verdadera innovación es artesanal y surge en esa amalgama de grises",
+  title: "Nullius in Verba",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
