@@ -4,15 +4,15 @@ export const SITE = {
   profile: "https://enriqueom3.com/",
   desc: "La verdadera innovación es artesanal y surge en esa amalgama de grises",
   title: "Nullius in Verba",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "EOM.png",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 4,
+  postPerIndex: 3,
+  postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
     url: "https://github.com/satnaing/astro-paper/edit/main/",
   },
