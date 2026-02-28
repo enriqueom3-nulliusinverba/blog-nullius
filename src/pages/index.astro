@@ -6,7 +6,6 @@ import Footer from "@/components/Footer.astro";
 import Card from "@/components/Card.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import { SITE } from "@/config";
-import { SOCIALS } from "@/constants";
 
 const posts = await getCollection("blog");
 
@@ -18,21 +17,16 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 <Layout>
   <Header />
   <main id="main-content" data-layout="index" class="app-layout">
-   <section id="hero" class="border-b border-border py-4 sm:py-6">
-  <h1 class="max-w-3xl text-lg font-medium italic sm:text-xl text-foreground/60">
-    "La verdadera innovación es artesanal y surge en esa amalgama de grises."
-  </h1>
-</section>
+    
+    <section id="hero" class="border-b border-border py-4 sm:py-6">
+      <h1 class="max-w-3xl text-lg font-medium italic sm:text-xl text-foreground/60">
+        "La verdadera innovación es artesanal y surge en esa amalgama de grises."
+      </h1>
+    </section>
 
     {
       featuredPosts.length > 0 && (
-        <section
-          id="featured"
-          class:list={[
-            "pt-12 pb-6",
-            { "border-b border-border": recentPosts.length > 0 },
-          ]}
-        >
+        <section id="featured" class="pt-12 pb-6 border-b border-border">
           <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
           <ul>
             {featuredPosts.map(data => (
@@ -57,13 +51,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       )
     }
 
-    <div class="my-8 text-center">
-      <LinkButton href="/posts/">
-        All Posts
-        <IconArrowRight class="inline-block rtl:-rotate-180" />
-      </LinkButton>
-    </div>
-  </main>
+    </main>
   <Footer />
 </Layout>
 
