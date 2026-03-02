@@ -11,7 +11,7 @@ tags:
   - estrategia
   - postverdad
   - inteligencia-artificial
-ogImage: src/assets/images/La parábola de los ciegos – Pieter Bruegel el Viejo (1568).jpeg
+ogImage: src/assets/images/parabola-ciegos.jpg
 description: "La democratización de la opinión y la pérdida del rigor científico están poniendo en peligro la innovación de impacto."
 canonicalURL: https://nulliusinverba.enriqueom3.com/nullius-in-verba-innovacion
 ---
