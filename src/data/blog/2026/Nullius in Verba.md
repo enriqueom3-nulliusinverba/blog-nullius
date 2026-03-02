@@ -1,7 +1,7 @@
 ---
 title: "Nullius in Verba: Por qué la ciencia es la madre de la innovación"
 author: Enrique Ortega Molina
-pubDatetime: 2026-03-02T21:15:00Z
+pubDatetime: 2026-03-01T21:15:00Z
 slug: nullius-in-verba-crisis-innovacion
 featured: true
 draft: false
