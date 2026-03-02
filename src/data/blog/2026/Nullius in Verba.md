@@ -18,9 +18,9 @@ canonicalURL: https://nulliusinverba.enriqueom3.com/nullius-in-verba-innovacion
 
 <figure style="margin-bottom: 3rem; text-align: center;">
   <img
-    src="../../../assets/images/parabola-ciegos.jpg"
+    src="/images/parabola-ciegos.jpg"
     alt="La parábola de los ciegos de Pieter Bruegel el Viejo"
-    style="max-width: 50%; height: 50%; display: block; margin: 0 auto;"
+    style="width: 50%; height: auto; display: block; margin: 0 auto;"
   />
 </figure>
 
