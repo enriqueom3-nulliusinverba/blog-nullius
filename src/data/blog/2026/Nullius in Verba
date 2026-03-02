@@ -1,14 +1,17 @@
 ---
-title: Nullius in Verba
+title: "Nullius in Verba: Por qué la ciencia es la madre de la innovación"
 author: Enrique Ortega Molina
-pubDatetime: 2026-032-03T09:17:19Z
-slug: Nullius-in-verba-innovacion
+pubDatetime: 2026-03-03T09:17:19Z
+slug: nullius-in-verba-crisis-innovacion
 featured: true
 draft: false
 tags:
   - innovacion
-ogImage: ../../assets/images/example.png # src/assets/images/example.png
-# ogImage: "https://example.org/remote-image.png" # remote URL
-description: This is the example description of the example post.
-canonicalURL: https://example.org/my-article-was-already-posted-here
+  - ciencia
+  - estrategia
+  - postverdad
+  - inteligencia-artificial
+ogImage: src/assets/images/La parábola de los ciegos – Pieter Bruegel el Viejo (1568).jpeg
+description: "La democratización de la opinión y la pérdida del rigor científico están poniendo en peligro la innovación de impacto"
+canonicalURL: https://nulliusinverba.enriqueom3.com/nullius-in-verba-innovacion
 ---
