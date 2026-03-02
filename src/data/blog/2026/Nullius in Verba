@@ -1,0 +1,14 @@
+---
+title: Nullius in Verba
+author: Enrique Ortega Molina
+pubDatetime: 2026-032-03T09:17:19Z
+slug: Nullius-in-verba-innovacion
+featured: true
+draft: false
+tags:
+  - innovacion
+ogImage: ../../assets/images/example.png # src/assets/images/example.png
+# ogImage: "https://example.org/remote-image.png" # remote URL
+description: This is the example description of the example post.
+canonicalURL: https://example.org/my-article-was-already-posted-here
+---
