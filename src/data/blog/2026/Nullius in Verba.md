@@ -1,5 +1,5 @@
 ---
-title: "Nullius in Verba: Por qué la ciencia es la madre de la innovación"
+title: "Nullius in Verba: La ciencia es la madre de la innovación"
 author: Enrique Ortega Molina
 pubDatetime: 2026-03-01T21:15:00Z
 slug: nullius-in-verba-crisis-innovacion
@@ -15,6 +15,18 @@ ogImage: "../../../assets/images/parabola-ciegos.jpg"
 description: "La democratización de la opinión y la pérdida del rigor científico están poniendo en peligro la innovación de impacto."
 canonicalURL: https://nulliusinverba.enriqueom3.com/nullius-in-verba-innovacion
 ---
+
+<figure>
+  <img
+    ogImage: "../../../assets/images/parabola-ciegos.jpg"
+  />
+    <figcaption class="text-center">
+    Photo by <a href="[https://www.pexels.com/photo/brown-wooden-desk-159618/](https://commons.wikimedia.org/w/index.php?curid=28885659)"></a>
+  </figcaption>
+</figure>
+
+---
+
 Hace tiempo escuché una frase del filósofo José Antonio Marina: “Todo el mundo tiene derecho a expresar su opinión, pero no toda opinión es respetable”.
 
 Hoy en día parece que todas las opiniones tienen el mismo peso: las que están sustentadas por la evidencia y las que no. Esto nos lleva a desactivar la autoridad de la ciencia hasta el punto en el que “Pepe” tiene el mismo peso en cualquier mesa de debate que un científico experto en la materia.
