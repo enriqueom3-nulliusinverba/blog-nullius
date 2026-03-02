@@ -16,14 +16,15 @@ description: "La democratización de la opinión y la pérdida del rigor cientí
 canonicalURL: https://nulliusinverba.enriqueom3.com/nullius-in-verba-innovacion
 ---
 
-<figure>
+<figure style="margin-bottom: 3rem; text-align: center;">
   <img
-    ogImage: "../../../assets/images/parabola-ciegos.jpg"
+    src="../../../assets/images/parabola-ciegos.jpg"
+    alt="La parábola de los ciegos de Pieter Bruegel el Viejo"
+    style="max-width: 50%; height: 50%; display: block; margin: 0 auto;"
   />
-    <figcaption class="text-center">
-    Photo by <a href="[https://www.pexels.com/photo/brown-wooden-desk-159618/](https://commons.wikimedia.org/w/index.php?curid=28885659)"></a>
-  </figcaption>
 </figure>
+
+
 
 ---
 
@@ -68,3 +69,11 @@ Por eso, “no toda opinión es respetable”.
 Y lo peor de todo es que nos olvidamos de que la ciencia es la madre de toda innovación. Sin científicos que cuestionen el *status quo*, sin cabezas pensantes que sigan ese *“Nullius in verba”*, estamos abocados a construir innovaciones soportadas por auténticos castillos de naipes. Estructuras tan frágiles como las opiniones de algunos.
 
 Con esto quiero que te quedes con una idea: aunque a veces la duda es inevitable, el camino de la ciencia es el único que conduce a innovaciones que se recuerdan durante siglos.
+
+</div>
+
+<hr style="margin-top: 5rem; border: 0; border-top: 1px solid #eee;" />
+
+<p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: 2rem; font-style: italic;">
+  Imagen de cabecera: "La parábola de los ciegos" – Pieter Bruegel el Viejo (1568). Fuente: <a href="https://commons.wikimedia.org/w/index.php?curid=28885659" style="color: #999; text-decoration: underline;">Wikimedia Commons</a>.
+</p>
