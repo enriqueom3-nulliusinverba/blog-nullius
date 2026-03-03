@@ -45,7 +45,7 @@ No tengo muy claro qué es lo que realmente produce tanto rechazo ante cualquier
 
 Ya nada nos sorprende.
 
-Llevamos tantos años conviviendo con las aplicaciones de los grandes descubrimientos tecnológicos del siglo pasado que las tomamos como algo por supuesto. Las grandes figuras científicas como Einstein u Oppenheimer, en las que se basan de hecho muchas de las grandes innovaciones que seguimos usando en nuestro día a día, han dado paso a filántropos tecnológicos que solo buscan un beneficio económico.
+Llevamos tantos años conviviendo con las aplicaciones de los grandes descubrimientos tecnológicos del siglo pasado que las tomamos como algo por supuesto. Las grandes figuras científicas como Einstein u Oppenheimer, en las que se basan de hecho muchas de las grandes innovaciones que seguimos usando en nuestro día a día, han dado paso a falsos filántropos tecnológicos que solo buscan un beneficio económico.
 
 Hace tiempo que la figura central dejó de ser el científico que sobrepasa los límites del entendimiento del mundo que nos rodea para realizar un descubrimiento; ahora es el CEO que lo comercializa globalmente.
 
