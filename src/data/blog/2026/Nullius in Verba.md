@@ -75,6 +75,12 @@ Con esto quiero que te quedes con una idea: aunque a veces la duda es inevitable
 
 </div>
 
+<p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: 2rem; font-style: italic;">
+Enrique Ortega Molina
+</p>
+
+</div>
+
 <hr style="margin-top: 5rem; border: 0; border-top: 1px solid #eee;" />
 
 <p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: 2rem; font-style: italic;">
