@@ -37,7 +37,9 @@ Hay una frase, un lema más bien, que me llamó la atención desde el primer dí
 
 Durante años, los miembros de la Royal Society de Londres hicieron de este lema un modo de entender el caos y la incertidumbre que les rodeaba. Estudiosos que entendían la importancia del camino, un proceso donde era clave establecer unas premisas iniciales que fuesen probadas como veraces o falsas tras la experimentación. Estos académicos sabían que un científico debe ser curioso y escéptico por naturaleza, y que esas cualidades eran, y siguen siendo, las que dan luz a nuevos descubrimientos y, sobre todo, a nuevas innovaciones.
 
-Últimamente tengo la sensación de que este lema se ha llevado al extremo más oscuro, donde solo la primera parte de “no dar por válidas las palabras de nadie” tiene cabida en una sociedad que pone en duda toda opinión. Hemos perdido la fe en la ciencia.
+Últimamente tengo la sensación de que este lema se ha llevado al extremo más oscuro, donde solo la primera parte de “no dar por válidas las palabras de nadie” tiene cabida en una sociedad que pone en duda toda opinión.
+
+Hemos perdido la fe en la ciencia.
 
 No tengo muy claro qué es lo que realmente produce tanto rechazo ante cualquier descubrimiento científico, o simplemente ante cualquier dato obtenido por medio del proceso científico tradicional. Lo que sí tengo meridianamente claro es que este cambio de paradigma ha puesto en peligro la innovación de impacto.
 
@@ -67,9 +69,7 @@ La cantidad de información que tenemos a un clic de distancia, y que soporta hi
 
 Por eso, “no toda opinión es respetable”.
 
-Y lo peor de todo es que nos olvidamos de que la ciencia es la madre de toda innovación. Sin científicos que cuestionen el *status quo*, sin cabezas pensantes que sigan ese *“Nullius in verba”*, estamos abocados a construir innovaciones soportadas por auténticos castillos de naipes.
-
-Estructuras tan frágiles como las opiniones de algunos.
+Y lo peor de todo es que nos olvidamos de que la ciencia es la madre de toda innovación. Sin científicos que cuestionen el *status quo*, sin cabezas pensantes que sigan ese *“Nullius in verba”*, estamos abocados a construir innovaciones soportadas por auténticos castillos de naipes. Estructuras tan frágiles como las opiniones de algunos.
 
 Con esto quiero que te quedes con una idea: aunque a veces la duda es inevitable, el camino de la ciencia es el único que conduce a innovaciones que se recuerdan durante siglos.
 
