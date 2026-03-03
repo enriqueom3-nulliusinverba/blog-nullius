@@ -73,7 +73,6 @@ Y lo peor de todo es que nos olvidamos de que la ciencia es la madre de toda inn
 
 Con esto quiero que te quedes con una idea: aunque a veces la duda es inevitable, el camino de la ciencia es el único que conduce a innovaciones que se recuerdan durante siglos.
 
-<p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: 2rem; font-style: italic;">
 Enrique Ortega Molina
 
 </div>
