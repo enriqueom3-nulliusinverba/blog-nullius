@@ -9,7 +9,6 @@ tags:
   - innovacion
   - ciencia
   - estrategia
-  - postverdad
   - inteligencia-artificial
 ogImage: "../../../assets/images/parabola-ciegos.jpg"
 description: "La democratización de la opinión y la pérdida del rigor científico están poniendo en peligro la innovación de impacto."
@@ -42,7 +41,9 @@ Durante años, los miembros de la Royal Society de Londres hicieron de este lema
 
 No tengo muy claro qué es lo que realmente produce tanto rechazo ante cualquier descubrimiento científico, o simplemente ante cualquier dato obtenido por medio del proceso científico tradicional. Lo que sí tengo meridianamente claro es que este cambio de paradigma ha puesto en peligro la innovación de impacto.
 
-Ya nada nos sorprende. Llevamos tantos años conviviendo con las aplicaciones de los grandes descubrimientos tecnológicos del siglo pasado que las tomamos como algo por supuesto. Las grandes figuras científicas como Einstein u Oppenheimer, en las que se basan de hecho muchas de las grandes innovaciones que seguimos usando en nuestro día a día, han dado paso a filántropos tecnológicos que solo buscan un beneficio económico.
+Ya nada nos sorprende.
+
+Llevamos tantos años conviviendo con las aplicaciones de los grandes descubrimientos tecnológicos del siglo pasado que las tomamos como algo por supuesto. Las grandes figuras científicas como Einstein u Oppenheimer, en las que se basan de hecho muchas de las grandes innovaciones que seguimos usando en nuestro día a día, han dado paso a filántropos tecnológicos que solo buscan un beneficio económico.
 
 Hace tiempo que la figura central dejó de ser el científico que sobrepasa los límites del entendimiento del mundo que nos rodea para realizar un descubrimiento; ahora es el CEO que lo comercializa globalmente.
 
@@ -66,7 +67,9 @@ La cantidad de información que tenemos a un clic de distancia, y que soporta hi
 
 Por eso, “no toda opinión es respetable”.
 
-Y lo peor de todo es que nos olvidamos de que la ciencia es la madre de toda innovación. Sin científicos que cuestionen el *status quo*, sin cabezas pensantes que sigan ese *“Nullius in verba”*, estamos abocados a construir innovaciones soportadas por auténticos castillos de naipes. Estructuras tan frágiles como las opiniones de algunos.
+Y lo peor de todo es que nos olvidamos de que la ciencia es la madre de toda innovación. Sin científicos que cuestionen el *status quo*, sin cabezas pensantes que sigan ese *“Nullius in verba”*, estamos abocados a construir innovaciones soportadas por auténticos castillos de naipes.
+
+Estructuras tan frágiles como las opiniones de algunos.
 
 Con esto quiero que te quedes con una idea: aunque a veces la duda es inevitable, el camino de la ciencia es el único que conduce a innovaciones que se recuerdan durante siglos.
 
