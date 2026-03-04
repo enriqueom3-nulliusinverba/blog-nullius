@@ -16,6 +16,13 @@ description: "La democratización de la opinión y la pérdida del rigor cientí
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-crisis-innovacion/
 ---
+![La parábola de los ciegos de Pieter Bruegel el Viejo](../../../assets/images/parabola-ciegos.jpg)
+
+<p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: -2rem; margin-bottom: 3rem; font-style: italic;">
+  Imagen de cabecera: "La parábola de los ciegos" – Pieter Bruegel el Viejo (1568).
+</p>
+
+---
 
 Hace tiempo escuché una frase del filósofo José Antonio Marina: “Todo el mundo tiene derecho a expresar su opinión, pero no toda opinión es respetable”.
 
