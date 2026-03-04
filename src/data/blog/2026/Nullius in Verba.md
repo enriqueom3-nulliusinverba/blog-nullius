@@ -20,7 +20,7 @@ canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-
 
 <p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: -2rem; margin-bottom: 3rem; font-style: italic;">
   Imagen de cabecera: "La parábola de los ciegos" – Pieter Bruegel el Viejo (1568). Fuente: 
-  <a href="https://commons.wikimedia.org/w/index.php?curid=28885659" target="_blank" rel="noopener noreferrer" text-decoration: underline; text-underline-offset: 3px;">
+  <a href="https://commons.wikimedia.org/w/index.php?curid=28885659" target="_blank" rel="noopener noreferrer" style="color: #999; text-decoration: underline; text-underline-offset: 3px;">
     Wikimedia Commons
   </a>.
 </p>
