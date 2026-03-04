@@ -139,7 +139,7 @@ const nextPost =
             <IconChevronLeft class="inline-block flex-none rtl:rotate-180" />
             <div>
               <span>Previous Post</span>
-              <div class="text-sm text-amber-600 dark:text-amber-500 font-medium">{prevPost.title}</div>
+              <div class="text-sm text-accent font-medium">{prevPost.title}</div>
             </div>
           </a>
         )
@@ -152,7 +152,7 @@ const nextPost =
           >
             <div>
               <span>Next Post</span>
-              <div class="text-sm text-amber-600 dark:text-amber-500 font-medium">{nextPost.title}</div>
+              <div class="text-sm text-accent font-medium">{nextPost.title}</div>
             </div>
             <IconChevronRight class="inline-block flex-none rtl:rotate-180" />
           </a>
@@ -174,7 +174,7 @@ const nextPost =
 
     // Create the progress bar div
     const progressBar = document.createElement("div");
-    progressBar.className = "progress-bar h-1 w-0 bg-amber-600 dark:bg-amber-500";
+    progressBar.className = "progress-bar h-1 w-0 bg-accent dark:bg-accent";
     progressBar.id = "myBar";
 
     // Append the progress bar to the progress container
