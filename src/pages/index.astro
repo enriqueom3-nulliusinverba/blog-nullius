@@ -24,18 +24,7 @@ const recentPosts = sortedPosts.slice(0, 3);
     {
       recentPosts.length > 0 && (
         <section id="posts-list" class="py-6">
-          <div class="flex items-baseline gap-4 mb-6">
-            <a
-              href="https://enriqueom3.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="text-[#ffc600] text-sm font-medium hover:underline decoration-dashed underline-offset-4 transition-all"
-            >
-              Conóceme
-            </a>
-            <h2 class="text-xl font-semibold tracking-wide">Posts</h2>
-          </div>
-
+          <h2 class="text-xl font-semibold tracking-wide mb-6">Posts</h2>
           <ul class="divide-y divide-border/50">
             {recentPosts.map(data => (
               <li class="py-4">
