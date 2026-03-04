@@ -23,10 +23,12 @@ const recentPosts = sortedPosts.slice(0, 3);
 
     {
       recentPosts.length > 0 && (
-        <section id="posts-list" class="py-6">
+        /* 2. Quitamos el padding superior (pt-0) de la sección de la lista */
+        <section id="posts-list" class="pt-0 pb-6">
           <ul class="divide-y divide-border/50">
             {recentPosts.map(data => (
-              <li class="py-4">
+              /* 3. Reducimos el padding vertical de cada post para que respiren sin alejarse */
+              <li class="py-2 sm:py-4">
                 <Card variant="h3" {...data} />
               </li>
             ))}
