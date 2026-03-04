@@ -19,7 +19,7 @@ canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-
 ![La parábola de los ciegos de Pieter Bruegel el Viejo](../../../assets/images/parabola-ciegos.jpg)
 
 <p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: -2rem; margin-bottom: 3rem; font-style: italic;">
-  Imagen de cabecera: "La parábola de los ciegos" – Pieter Bruegel el Viejo (1568).
+  Imagen de cabecera: "La parábola de los ciegos" – Pieter Bruegel el Viejo (1568) - gallerix.ru, Dominio público, https://commons.wikimedia.org/w/index.php?curid=28885659
 </p>
 
 ---
