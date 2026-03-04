@@ -11,7 +11,7 @@ tags:
   - ciencia
   - estrategia
   - inteligencia-artificial
-ogImage: "/images/parabola-ciegos.jpg"
+ogImage: "src/assets/images/parabola-ciegos.jpg"
 description: "La democratización de la opinión y la pérdida del rigor científico están poniendo en peligro la innovación de impacto."
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-crisis-innovacion/
