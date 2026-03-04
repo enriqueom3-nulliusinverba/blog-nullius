@@ -74,9 +74,3 @@ Enrique Ortega Molina
 
 
 </div>
-
-<hr style="margin-top: 5rem; border: 0; border-top: 1px solid #eee;" />
-
-<p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: 2rem; font-style: italic;">
-  Imagen de cabecera: "La parábola de los ciegos" – Pieter Bruegel el Viejo (1568). Fuente: <a href="https://commons.wikimedia.org/w/index.php?curid=28885659" style="color: #999; text-decoration: underline;">Wikimedia Commons</a>.
-</p>
