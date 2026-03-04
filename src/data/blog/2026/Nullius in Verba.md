@@ -11,22 +11,10 @@ tags:
   - ciencia
   - estrategia
   - inteligencia-artificial
-ogImage: "../../assets/images/parabola-ciegos.jpg"
+ogImage: "../../../assets/images/parabola-ciegos.jpg"
 description: "La democratización de la opinión y la pérdida del rigor científico están poniendo en peligro la innovación de impacto."
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-crisis-innovacion/
----
-
-<figure style="margin-bottom: 3rem; text-align: center;">
-  <img
-    src="/images/parabola-ciegos.jpg"
-    alt="La parábola de los ciegos de Pieter Bruegel el Viejo"
-    style="width: 80%; height: auto; display: block; margin: 0 auto;"
-  />
-</figure>
-
-
-
 ---
 
 Hace tiempo escuché una frase del filósofo José Antonio Marina: “Todo el mundo tiene derecho a expresar su opinión, pero no toda opinión es respetable”.
