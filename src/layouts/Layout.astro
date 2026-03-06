@@ -1,5 +1,6 @@
 ---
 import { Font } from "astro:assets";
+import profileImage from "@/assets/images/enrique-ortega-molina.jpeg";
 import { ClientRouter } from "astro:transitions";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
 import { SITE } from "@/config";
@@ -30,21 +31,39 @@ const {
 } = Astro.props;
 
 const socialImageURL = new URL(ogImage, Astro.url);
+// Convertimos la ruta del archivo en una URL absoluta para los buscadores
+const fullProfileImageUrl = new URL(profileImage.src, SITE.website).href;
 
+// 1. Definimos tu Identidad Global (Persona)
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": `${SITE.website}#person`,
+  "name": "Enrique Ortega Molina",
+  "url": SITE.website,
+  "image": fullProfileImageUrl,
+  "description": "Experto en innovación, design thinking y creatividad artesanal.",
+  "sameAs": [
+    "https://github.com/enriqueom3",
+    "https://www.linkedin.com/in/enrique-ortega-molina-enriqueom3/",
+  ],
+  "jobTitle": "Experto en Innovación",
+  "knowsAbout": ["Innovación", "Estrategia Digital", "Creatividad aplicada", "Docencia"],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Verisure"
+  }
+};
+
+// 2. Definimos el Schema del Post (se mantiene igual pero conectado a ti)
 const structuredData = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  headline: `${title}`,
-  image: `${socialImageURL}`,
-  datePublished: `${pubDatetime?.toISOString()}`,
-  ...(modDatetime && { dateModified: modDatetime.toISOString() }),
-  author: [
-    {
-      "@type": "Person",
-      name: `${author}`,
-      ...(profile && { url: profile }),
-    },
-  ],
+  "headline": `${title}`,
+  "image": `${socialImageURL}`,
+  "datePublished": pubDatetime?.toISOString(),
+  ...(modDatetime && { "dateModified": modDatetime.toISOString() }),
+  "author": { "@id": `${SITE.website}#person` } // Esto le dice a Google: "El autor es la Persona de arriba"
 };
 ---
 
@@ -106,15 +125,22 @@ const structuredData = {
     <meta property="twitter:image" content={socialImageURL} />
 
     <!-- Google JSON-LD Structured data -->
-    <script
-      type="application/ld+json"
-      is:inline
-      set:html={JSON.stringify(structuredData)}
-    />
+   <script
+  type="application/ld+json"
+  is:inline
+  set:html={JSON.stringify(personSchema)}
+/>
 
+{pubDatetime && (
+  <script
+    type="application/ld+json"
+    is:inline
+    set:html={JSON.stringify(structuredData)}
+  />
+)}
     <!-- Enable RSS feed auto-discovery  -->
     <!-- https://docs.astro.build/en/recipes/rss/#enabling-rss-feed-auto-discovery -->
-    <link
+     <link
       rel="alternate"
       type="application/rss+xml"
       title={SITE.title}
