@@ -12,7 +12,7 @@ tags:
   - estrategia
   - inteligencia-artificial
 ogImage: "../../../assets/images/La-traicion-de-las-imagenes-Rene-Magritte.jpg"
-description: "¿Es innovación o simplemente un truco para pagar menos a los artistas? Todo lo que Spotify no te cuenta sobre la música generada por IA y por qué es tan difícil diferenciar hoy la máquina del hombre."
+description: "¿Es innovación o simplemente un truco para pagar menos a los artistas? El caso de Spotify, la música generada por IA y por qué es tan difícil diferenciar la máquina del hombre."
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-crisis-innovacion/
 ---
@@ -93,7 +93,7 @@ Para mí es una cuestión de calidad frente a cantidad.
 
 Dejé de escuchar a algunos artistas generados por IA porque todas sus canciones acababan pareciéndose. Este es el verdadero problema de la baja calidad de los datos con los que se han entrenado muchas IAs (y ya ni hablar de que en un futuro no muy lejano estas empezarán a usar ese contenido para retroalimentarse…).
 
-Pero el caso con el que empezaba esta reflexión creo que es diferente, ofrece algo nuevo, algo diferente, quizás porque se parezca mucho a un humano (seguramente hay alguien detrás). Al final ¿qué es la creatividad? ¿Qué es la innovación? ¿Lo que realmente apreciamos es el producto o su autor?
+Pero el caso con el que empezaba esta reflexión creo que es diferente, ofrece algo nuevo, algo genuino, quizás porque se parezca mucho a un humano (seguramente hay alguien detrás). Al final ¿qué es la creatividad? ¿Qué es la innovación? ¿Lo que realmente apreciamos es el producto o su autor?
 
 Yo por ahora voy a estar más atento a lo que me recomienda Spotify. Y si no, siempre me quedará Hans Zimmer.
 
