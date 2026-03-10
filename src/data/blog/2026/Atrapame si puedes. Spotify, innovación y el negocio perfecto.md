@@ -1,11 +1,11 @@
 ---
 title: "Atrapame si puedes. Spotify, innovación y el negocio perfecto"
 author: Enrique Ortega Molina
-pubDatetime: 2026-03-11T15:00:00Z
+pubDatetime: 2026-03-10T15:00:00Z
 # CORRECCIÓN: El slug debe incluir el año para coincidir con la carpeta y la Regla de Oro
 slug: 2026/spotify-ia-innovacion-negocio-perfecto
 featured: true
-draft: true
+draft: false
 tags:
   - innovacion
   - Negocio
