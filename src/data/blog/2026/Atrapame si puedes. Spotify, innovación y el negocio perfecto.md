@@ -31,7 +31,7 @@ Quienes me conocen saben que soy una persona que no puede estarse quieta durante
 
 Desde hace bastantes años la música que consumo proviene de las famosas listas de recomendados que hace Spotify o de radios con canciones similares a las que me gustan. En contraposición a esto, cuando escucho una canción que me gusta, la repito y la repito hasta que se vuelve algo casi enfermizo.
 
-El problema que tengo últimamente es que desde hace unos meses me siento bastante engañado, porque casi todas las canciones que escucho, y sobre todo con las que entro en bucle, resulta que son canciones que han sido generadas por IA.
+El problema que tengo últimamente es que desde hace unos meses me siento bastante engañado. Casi todas las canciones que escucho, y sobre todo con las que entro en bucle, resulta que son canciones que han sido generadas por IA.
 
 Cada vez me cuesta más diferenciar entre la máquina y el hombre.
 
@@ -49,7 +49,7 @@ Profundizando en el tema, me he topado con muchos usuarios que comparten mi frus
 
 Hay diferentes artículos que profundizan en la teoría de que estas IAs las genera la propia Spotify para generar más beneficio y pagar a menos artistas reales.
 
-¿Estas afirmaciones tienen sentido?
+¿Tienen sentido estas afirmaciones?
 
 Seamos sinceros, el gigante sueco tiene el conocimiento, saben qué canciones funcionan mejor, qué géneros te gustan y, sobre todo, conocen tus gustos musicales. En realidad tienen todos los ingredientes de la receta secreta del éxito. Pueden perfectamente coger toda esa información, entrenar una IA (aunque esto lo hagan a través de terceros) y crear nuevos artistas que generen miles de reproducciones diarias de las que ellos tienen el 100% de los derechos.
 
@@ -69,7 +69,7 @@ Es solo una teoría (Los entresijos de la industria musical dan mucho de sí: ht
 
 Pero ¿y si fuese real?
 
-Sería una jugada maestra. Un ejemplo claro de cómo la innovación se puede usar para incrementar exponencialmente los beneficios de una empresa. Al final estás jugando al poder mientras le ves las cartas a tu oponente.
+Sería una jugada maestra. Un ejemplo claro de cómo la innovación se puede usar para incrementar exponencialmente los beneficios de una empresa. Al final estás jugando al poker mientras le ves las cartas a tu oponente.
 
 La pregunta está en si es una innovación ética.
 
