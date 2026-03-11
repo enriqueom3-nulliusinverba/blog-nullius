@@ -14,7 +14,7 @@ tags:
 ogImage: "../../../assets/images/La-traicion-de-las-imagenes-Rene-Magritte.jpg"
 description: "¿Es innovación o simplemente un truco para pagar menos a los artistas? El caso de Spotify, la música generada por IA y por qué es tan difícil diferenciar la máquina del hombre."
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
-canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/nullius-in-verba-crisis-innovacion/
+canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/spotify-ia-innovacion-negocio-perfecto/
 ---
 ![La-traicion-de-las-imagenes-Rene-Magritte](../../../assets/images/La-traicion-de-las-imagenes-Rene-Magritte.jpg)
 
