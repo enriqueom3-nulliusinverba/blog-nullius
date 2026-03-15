@@ -4,6 +4,7 @@ import Analytics from "@vercel/analytics/astro";
 import { ClientRouter } from "astro:transitions";
 import profileImage from "../assets/images/Enrique-Ortega-Molina.jpeg";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
+import Analytics from "@vercel/analytics/astro";
 import { SITE } from "@/config";
 import "@/styles/global.css";
 
@@ -164,6 +165,8 @@ const structuredData = {
 
     <ClientRouter />
     <Analytics /> 
+
+    <Analytics />
 
     <!-- Minimal inline script to prevent FOUC - sets theme immediately -->
     <script is:inline>
