@@ -5,7 +5,7 @@ pubDatetime: 2026-03-30T15:00:00Z
 # CORRECCIÓN: El slug debe incluir el año para coincidir con la carpeta y la Regla de Oro
 slug: 2026/Innovación-en-Semana-Santa-al-ritmo-de-la-trompeta-y-el-tambor
 featured: true
-draft: false
+draft: true
 tags:
   - innovacion
   - Semana Santa
