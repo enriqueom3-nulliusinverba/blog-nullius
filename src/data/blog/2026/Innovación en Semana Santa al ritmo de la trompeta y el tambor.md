@@ -10,16 +10,16 @@ tags:
   - innovacion
   - Semana Santa
   - Tecnología
-ogImage: "../../../assets/images/La-traicion-de-las-imagenes-Rene-Magritte.jpg"
+ogImage: "../../../assets/images/Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg"
 description: "¿Es innovación o simplemente un truco para pagar menos a los artistas? El caso de Spotify, la música generada por IA y por qué es tan difícil diferenciar la máquina del hombre."
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/spotify-ia-innovacion-negocio-perfecto/
 ---
-![La-traicion-de-las-imagenes-Rene-Magritte](../../../assets/images/La-traicion-de-las-imagenes-Rene-Magritte.jpg)
+![Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg](../../../assets/images/Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg)
 
 <p style="color: #999; font-size: 0.85rem; text-align: center; margin-top: -2rem; margin-bottom: 3rem; font-style: italic;">
-  "La traición de las imagenes" – René Magritte (1929). Fuente: 
-  <a href="https://commons.wikimedia.org/wiki/File:Magritte_treachery.jpg" target="_blank" rel="noopener noreferrer" style="color: #999; text-decoration: underline; text-underline-offset: 3px;">
+  "Procesión en Sevilla" – Manuel Cabral Aguado-Bejarano (1855). Fuente: 
+  <a href="https://upload.wikimedia.org/wikipedia/commons/1/18/Manuel_Cabral_Aguado-Bejarano_-_Procesi%C3%B3n_en_Sevilla%2C_1855.jpg" target="_blank" rel="noopener noreferrer" style="color: #999; text-decoration: underline; text-underline-offset: 3px;">
     Wikimedia Commons
   </a>.
 </p>
