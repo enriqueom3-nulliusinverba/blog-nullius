@@ -11,7 +11,7 @@ tags:
   - Semana Santa
   - Tecnología
 ogImage: "../../../assets/images/Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg"
-description: "Bajo el eco de los tambores y el aroma a incienso, late un corazón tecnológico que pocos ven. De la fe más antigua a los sensores que miden la bulla en tiempo real: un viaje por la delgada línea donde la tradición se abraza a la innovación para protegernos de nuestra propia pasión."
+description: "Oculto entre el eco de los tambores y el aroma a incienso, late un corazón tecnológico que pocos ven. Es así como la Semana Santa demuestra que tradición e innovación no son dos conceptos opuestos y sino caras de una misma moneda"
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/Innovación-en-Semana-Santa-al-ritmo-de-trompeta-y-tambor/
 ---
