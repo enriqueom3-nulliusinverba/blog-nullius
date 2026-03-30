@@ -51,7 +51,7 @@ En Sevilla, por ejemplo, tienen una de las aplicaciones de Semana Santa más ava
 
 En concreto, esta afluencia se mide gracias a unos 40 sensores distribuidos por la capital andaluza, que sumados a las ya tradicionales cámaras de vigilancia ofrecen a los sevillanos un mapa de “bulla” en directo para evitar aglomeraciones.
 
-Estos sensores instalados por la empresa Iertec Smart Technologies, lo que hacen es captar la presencia de dispositivos móviles en la zona. Básicamente, identifican todas las señales que salen de tu dispositivo (Bluetooth, Wi-Fi, internet…), las clasifican e identifican para no duplicar personas y las posicionan en un lugar concreto en función del detector que las haya captado.
+Estos sensores instalados por la empresa Iertec Smart Technologies captan la presencia de dispositivos móviles en la zona. Básicamente, identifican todas las señales que salen de tu dispositivo (Bluetooth, Wi-Fi, internet…), las clasifican e identifican para no duplicar personas y las posicionan en un lugar concreto en función del detector que las haya captado.
 
 Lo vengo repitiendo en los artículos anteriores, pero al final la información es poder. Datos que mientras a Iertec les van a servir para mejorar y afinar su tecnología, al Ayuntamiento de Sevilla y a sus fuerzas de seguridad les dan la capacidad de predecir y prevenir posibles desastres.
 
