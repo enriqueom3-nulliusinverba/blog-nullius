@@ -13,7 +13,7 @@ tags:
 ogImage: "../../../assets/images/Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg"
 description: "Oculto entre el eco de los tambores y el aroma a incienso, late un corazón tecnológico que pocos ven. Es así como la Semana Santa demuestra que tradición e innovación no son dos conceptos opuestos y sino caras de una misma moneda"
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
-canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/Innovación-en-Semana-Santa-al-ritmo-de-trompeta-y-tambor/
+canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/Innovación-en-Semana-Santa/
 ---
 ![Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg](../../../assets/images/Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg)
 
