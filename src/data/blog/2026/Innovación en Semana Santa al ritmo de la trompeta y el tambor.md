@@ -3,7 +3,7 @@ title: "Innovación en Semana Santa al ritmo de la trompeta y el tambor"
 author: Enrique Ortega Molina
 pubDatetime: 2026-03-30T15:00:00Z
 # CORRECCIÓN: El slug debe incluir el año para coincidir con la carpeta y la Regla de Oro
-slug: 2026/Innovación-en-Semana-Santa-al-ritmo-de-la-trompeta-y-el-tambor
+slug: 2026/Innovacion-en-Semana-Santa-tradicion-tecnologia
 featured: true
 draft: true
 tags:
@@ -11,7 +11,7 @@ tags:
   - Semana Santa
   - Tecnología
 ogImage: "../../../assets/images/Manuel-Cabral-Aguado-Bejarano-Procesión-en-Sevilla-1855.jpg"
-description: "¿Es innovación o simplemente un truco para pagar menos a los artistas? El caso de Spotify, la música generada por IA y por qué es tan difícil diferenciar la máquina del hombre."
+description: "Bajo el eco de los tambores y el aroma a incienso, late un corazón tecnológico que pocos ven. De la fe más antigua a los sensores que miden la bulla en tiempo real: un viaje por la delgada línea donde la tradición se abraza a la innovación para protegernos de nuestra propia pasión."
 # REGLA DE ORO: Prefijo /posts/ y cierre con barra /
 canonicalURL: https://nulliusinverba.enriqueom3.com/posts/2026/spotify-ia-innovacion-negocio-perfecto/
 ---
