@@ -3,7 +3,7 @@ title: "Innovación en Semana Santa al ritmo de trompeta y tambor"
 author: Enrique Ortega Molina
 pubDatetime: 2026-03-30T15:00:00Z
 # CORRECCIÓN: El slug debe incluir el año para coincidir con la carpeta y la Regla de Oro
-slug: 2026/Innovacion-en-Semana-Santa-tradicion-tecnologia
+slug: 2026/Innovación-en-Semana-Santa-al-ritmo-de-trompeta-y-tambor.md
 featured: true
 draft: false
 tags:
